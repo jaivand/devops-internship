@@ -1,0 +1,20 @@
+ls - lists the file directory and files
+pwd - shows the current working directory
+cd - change directory
+mkdir - make directory
+touch - create an empty file
+rm - delete/remove files
+nano - simple text editor
+cat - displayd file contents
+whoami - displays the current users
+id - Shows user ID and groups
+ps - Shows running processes
+top - Displays system resource usage
+htop - Interactive process viewer
+ping - Checks network connectivity
+curl - Fetches data from a URL
+cp - copy files
+chmod - Changes file permissions
+chown - Changes file ownership
+vim - Advanced text editor
+mw - move files
