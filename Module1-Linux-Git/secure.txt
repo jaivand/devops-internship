@@ -1,0 +1,4 @@
+the file permission will be set to 600
+6 -> rw- to the owner; ie, the owner can write and read but not run the script
+0 -> no permissions for groups
+0 -> no permissions for others
