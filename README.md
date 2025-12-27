@@ -16,4 +16,9 @@ This repository contains my work and practice tasks completed during my DevOps i
 - Hosting a custom HTML webpage
 - Bash scripting for system information automation
 
-
+## Week 3
+- Introduction to CI/CD concepts
+- Creating a CI pipeline using GitHub Actions
+- Automating execution of a Bash script on every push
+- Viewing and interpreting workflow logs
+- Adding a CI status badge to the repository
